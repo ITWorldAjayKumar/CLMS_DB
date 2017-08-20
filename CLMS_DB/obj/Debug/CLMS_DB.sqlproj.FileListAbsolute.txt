@@ -1,0 +1,9 @@
+E:\Projects\CLMS_DB\CLMS_DB\bin\Debug\CLMS_DB.dacpac
+E:\Projects\CLMS_DB\CLMS_DB\bin\Debug\CLMS_DB.dll
+E:\Projects\CLMS_DB\CLMS_DB\bin\Debug\CLMS_DB.pdb
+E:\Projects\CLMS_DB\CLMS_DB\obj\Debug\Model.xml
+E:\Projects\CLMS_DB\CLMS_DB\obj\Debug\refactor.xml
+E:\Projects\CLMS_DB\CLMS_DB\obj\Debug\postdeploy.sql
+E:\Projects\CLMS_DB\CLMS_DB\obj\Debug\predeploy.sql
+E:\Projects\CLMS_DB\CLMS_DB\obj\Debug\CLMS_DB.dll
+E:\Projects\CLMS_DB\CLMS_DB\obj\Debug\CLMS_DB.pdb
